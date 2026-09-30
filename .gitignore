@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+models/*.pkl
+data/
+exports/
+.pytest_cache/
+.coverage
+node_modules/
+frontend/build/
+*.log
+.DS_Store
